@@ -1,0 +1,18 @@
+Error:Implementation failed of top_regfile
+top_CLA8 is implemented and reports are generated
+top_CLA16 is implemented and reports are generated
+Error:Synthesis failed of top_CLA32
+Error:Implementation failed of top_CLA64
+top_half_adder is implemented and reports are generated
+Error:Synthesis failed of top_mealy
+top_mealy0011 is implemented and reports are generated
+Error:Synthesis failed of top_moore
+top_moore0011 is implemented and reports are generated
+top_priority_encoder_behavioral is implemented and reports are generated
+top_priority_encoder_structural is implemented and reports are generated
+Error:Synthesis failed of top_ripple_carry_adder
+top_Traffic_Controller_Led is implemented and reports are generated
+Error:Synthesis failed of top_array_multiplier
+top_clock_divider is implemented and reports are generated
+top_FIFO is implemented and reports are generated
+Error:Synthesis failed of top_full_adder
