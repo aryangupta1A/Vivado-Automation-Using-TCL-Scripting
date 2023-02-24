@@ -12,7 +12,7 @@ Requirements
 Usage
 1) Clone the Repository to your local machine
 2) Make sure that the "Tcl_Scripting.ipynb" file is located in the same directory containing "Modules" and "Script"
-3) Add your verilog/system verilog files to "Modules" folder
+3) Add your verilog/system verilog files to "Modules" folder. Some examples are already present.
 4) Make sure all your top modules start with the name "top_" and module and file names are same
 5) Open the "Tcl_Scripting.ipynb" file using Jupyter Notebook or any other compatible notebook viewer or editor in the same directory.
 6) Run the python script to generate the synthesis and implementation results
